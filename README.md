@@ -16,5 +16,5 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 ### Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar.
 Save the file with a .sol extension (e.g., MyToken.sol).
-Copy and Paste the Code from the contracts folder.
+Copy and Paste the "HelloWorld.sol" file from the contracts folder.
 
